@@ -18,7 +18,7 @@ print ("\n"+"\n"+"\n")
 
 print ("==================================================== [ADMIN LOGIN] =================================================== ")
 sb = LINE("drwirot@vmailcloud.com","wirot2532")
-#sb = LINE("EI9dNagyspnUEKOSB3B8.TGa9owyZCoMSkVw0LbCeYa.R61bWhnkwQiDoi2dTDXRXwq7uSih7L3sc207MhBsoeE=")
+#sb = LINE("")
 sb.log(str(sb.authToken))
 print ("====================================================================================================================== "+"\n"+"\n$
 
@@ -27,7 +27,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 1 LOGIN SUKSES] ================================================ ")
 pb1 = LINE("drwirot1@vmailcloud.com","wirot2532")
-#pb1 = LINE("EItF8v06ssNPgKCM4Ckf.30S28HBwkrKNeOJgrTI7RW.WnJLKu9rg+eAWs7HjPvXHtXntOpB6cS8LoNWSsfR/YE=")
+#pb1 = LINE("")
 pb1.log(str(pb1.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -36,7 +36,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 2 LOGIN SUKSES] ================================================ ")
 pb2 = LINE("drwirot2@vimail24.com","wirot2532")
-#pb2 = LINE("EIMMz5j6HBsIryHk8sSb.3J2/x0RLSPki+Us6HwdWAW.gDV/rBzDjJXOrtpQEROn2EHe1Ipp26CQYxPt0loupD4=")
+#pb2 = LINE("")
 pb2.log(str(pb2.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -45,7 +45,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 3 LOGIN SUKSES] ================================================ ")
 pb3 = LINE("drwirot3@vmailcloud.com","wirot2532")
-#pb3 = LINE("EIi52TZmrUPOW66a7wW7.XqrJ3EpJTKPhRWojxA3bfW.x5mz/wWcc4SHWwZngsXISIlVxd2ZTibVsv4VesnH2MU=")
+#pb3 = LINE("")
 pb3.log(str(pb3.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -55,7 +55,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 4 LOGIN SUKSES] ================================================ ")
 #pb4 = LINE("drwirot4@vmailcloud.com","wirot2532")
-pb4 = LINE("EIHCQBamoNVkKk2XKPs2.exxiuceys24Hcswp+7tWaG.4HXCJzfGQOfj5iT8yl3T07V0jwfnM+oW29uzG+gYbxc=")
+pb4 = LINE("")
 pb4.log(str(pb4.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -64,7 +64,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 5 LOGIN SUKSES] ================================================ ")
 #pb5 = LINE("drwirot5@vmailcloud.com","wirot2532")
-pb5 = LINE("EIj3RsLZiwFybHNhWGX1.RjXxUC+awRgsduIopo2KGq.PHp7iJ0y9/+BBOwklSOOKqYdJFY4hchnVTBa9FgZ2lY=")
+pb5 = LINE("")
 pb5.log(str(pb5.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -74,7 +74,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 6 LOGIN SUKSES] ================================================ ")
 #pb6 = LINE("drwirot6@vmailcloud.com","wirot2532")
-pb6 = LINE("EI608xihjAPkW8rIGkR0.zM8QzOJiK+V0jI1WHn33ia.0rzR7dYWi/tuSFgm0ou9mz+cF2/QbnLO1jw4wBShb/Y=")
+pb6 = LINE("")
 pb6.log(str(pb5.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -83,7 +83,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 7 LOGIN SUKSES] ================================================ ")
 #pb7 = LINE("drwirot7@vmailcloud.com","wirot2532")
-pb7 = LINE("EICzAVsLdyJqj8TQur38.HUi1rzgPY8kZfb2A58R6/a.ZMLvhv1HolIga+11MNkx1OQsa8Bqs3EXtlpaPP7EbM4=")
+pb7 = LINE("")
 pb7.log(str(pb7.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -93,7 +93,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 8 LOGIN SUKSES] ================================================ ")
 #pb8 = LINE("drwirot8@vmailcloud.com","wirot2532")
-pb8 = LINE("EIljkCsd3NazUnmEhO60.GsP4JtVHUUof+mds/SLUOa.Qiw5WHen9ClSVzvDCY5yIBR9yL8InEDmUCDD9Apg1LE=")
+pb8 = LINE("")
 pb8.log(str(pb8.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -102,7 +102,7 @@ print ("========================================================================
 
 print ("============================================= [Kicker 9 LOGIN SUKSES] ================================================ ")
 #pb9 = LINE("")
-pb9 = LINE("EIML4bKAspQ7vONyamP5.cfou0aMb+ON+8D4ECf/Onq.bhVkewn9hac7f/T50JqoCTYls4MfSKuN38S7LrRjtIc=")
+pb9 = LINE("")
 pb9.log(str(pb9.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
@@ -112,27 +112,36 @@ print ("========================================================================
 
 print ("============================================ [Kicker 10 LOGIN SUKSES] ================================================ ")
 #pb = LINE("")
-pb10 = LINE("EIK331W0MC4v97va9Ms2.n18aQNF1n2nbIjfffAr6GG.ATJ94sYmvSV10MnMRZPhjtzJqM98Icg8h9eLtQyAoEs=")
+pb10 = LINE("")
 pb10.log(str(pb10.authToken))
 print ("====================================================================================================================== "
 +"\n"+"\n"+"\n")
 
 #====================================================================================================================================\n"
-
+       
+print ("""
+PPPPPPPPPPPPPPPPP                                                           kkkkkkkk           BBBBBBBBBBBBBBBBB                         $
+P::::::::::::::::P                                                          k::::::k           B::::::::::::::::B                        $
+P::::::PPPPPP:::::P                                                         k::::::k           B::::::BBBBBB:::::B                       $
+PP:::::P     P:::::P                                                        k::::::k           BB:::::B     B:::::B                      $
+  P::::P     P:::::Prrrrr   rrrrrrrrr     aaaaaaaaaaaaa   nnnn  nnnnnnnn     k:::::k    kkkkkkk  B::::B     B:::::B   ooooooooooo   ttttt$
+  P::::P     P:::::Pr::::rrr:::::::::r    a::::::::::::a  n:::nn::::::::nn   k:::::k   k:::::k   B::::B     B:::::B oo:::::::::::oo t::::$
+  P::::PPPPPP:::::P r:::::::::::::::::r   aaaaaaaaa:::::a n::::::::::::::nn  k:::::k  k:::::k    B::::BBBBBB:::::B o:::::::::::::::ot::::$
+  P:::::::::::::PP  rr::::::rrrrr::::::r           a::::a nn:::::::::::::::n k:::::k k:::::k     B:::::::::::::BB  o:::::ooooo:::::ottttt$
+  P::::PPPPPPPPP     r:::::r     r:::::r    aaaaaaa:::::a   n:::::nnnn:::::n k::::::k:::::k      B::::BBBBBB:::::B o::::o     o::::o     $
+  P::::P             r:::::r     rrrrrrr  aa::::::::::::a   n::::n    n::::n k:::::::::::k       B::::B     B:::::Bo::::o     o::::o     $
+  P::::P             r:::::r             a::::aaaa::::::a   n::::n    n::::n k:::::::::::k       B::::B     B:::::Bo::::o     o::::o     $
+  P::::P             r:::::r            a::::a    a:::::a   n::::n    n::::n k::::::k:::::k      B::::B     B:::::Bo::::o     o::::o     $
+PP::::::PP           r:::::r            a::::a    a:::::a   n::::n    n::::nk::::::k k:::::k   BB:::::BBBBBB::::::Bo:::::ooooo:::::o     $
+P::::::::P           r:::::r            a:::::aaaa::::::a   n::::n    n::::nk::::::k  k:::::k  B:::::::::::::::::B o:::::::::::::::o     $
+P::::::::P           r:::::r             a::::::::::aa:::a  n::::n    n::::nk::::::k   k:::::k B::::::::::::::::B   oo:::::::::::oo      $
+PPPPPPPPPP           rrrrrrr              aaaaaaaaaa  aaaa  nnnnnn    nnnnnnkkkkkkkk    kkkkkkkBBBBBBBBBBBBBBBBB      ooooooooooo        $
+""")
+       
 oepoll = OEPoll(sb)
 sbProfile = sb.getProfile()
 sbSettings = sb.getSettings()
 sbMID = sb.profile.mid
-
-
-print ("============================================ [Kicker 10 LOGIN SUKSES] ================================================ ")
-#pb = LINE("")
-pb10 = LINE("EIK331W0MC4v97va9Ms2.n18aQNF1n2nbIjfffAr6GG.ATJ94sYmvSV10MnMRZPhjtzJqM98Icg8h9eLtQyAoEs=")
-pb10.log(str(pb10.authToken))
-print ("====================================================================================================================== "
-+"\n"+"\n"+"\n")
-
-#====================================================================================================================================\n"
 
 pb1MID = pb1.getProfile().mid
 pb2MID = pb2.getProfile().mid
